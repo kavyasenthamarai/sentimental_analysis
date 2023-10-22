@@ -1,5 +1,5 @@
-# sentimental_analysis_customer_review
 
+# "Sentiment Analysis with LSTM: Predicting Product Reviews"
 # DEVELOPED BY
 
 ## TECH TURTLES
@@ -10,7 +10,6 @@ PRIYADHARSHINI P(CS-CYBER SECURITY)
 RAMA E.K. LEKSHMI(AIML)
 SWETHA P(CS-CYBER SECURITY)
 ```
-# "Sentiment Analysis with LSTM: Predicting Product Reviews"
 ## Algorithm 
 ## Data Preprocessing:
 
