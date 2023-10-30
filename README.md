@@ -1,15 +1,5 @@
 
-# "Sentiment Analysis with LSTM: Predicting Product Reviews"
-# DEVELOPED BY
-
-## TECH TURTLES
-```
-KAVYA K (AI-DS)
-YUVA KRISHNA K(CS-IOT)
-PRIYADHARSHINI P(CS-CYBER SECURITY)
-RAMA E.K. LEKSHMI(AIML)
-SWETHA P(CS-CYBER SECURITY)
-```
+# "Sentiment Analysis : Predicting Product Reviews"
 ## Algorithm 
 ## Data Preprocessing:
 
